@@ -1,6 +1,6 @@
 # 03_05 Challenge Connect Jenkins to GitHub
 
-[![Build Status](http://ec2-18-142-30-60.ap-southeast-1.compute.amazonaws.com/job/connect-jenkins-to-github/badge/icon)](http://ec2-18-142-30-60.ap-southeast-1.compute.amazonaws.com/job/connect-jenkins-to-github/)
+[![Build Status](http://ec2-18-142-30-60.ap-southeast-1.compute.amazonaws.com/buildStatus/icon?job=connect-jenkins-to-github)](http://ec2-18-142-30-60.ap-southeast-1.compute.amazonaws.com/job/connect-jenkins-to-github/)
 
 You're on a team developing an algorithm that calculates the value of pi.
 
