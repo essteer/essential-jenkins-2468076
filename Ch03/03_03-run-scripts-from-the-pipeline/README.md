@@ -1,5 +1,7 @@
 # 03_03 Run scripts from the pipeline
 
+[![Build Status](http://ec2-18-142-30-60.ap-southeast-1.compute.amazonaws.com/buildStatus/icon?job=fibonacci)](http://ec2-18-142-30-60.ap-southeast-1.compute.amazonaws.com/job/fibonacci/)
+
 Pipelines can be used to call scripts that are stored in a repo along with a Jenkinsfile.
 
 ## Pipeline steps for calling scripts
