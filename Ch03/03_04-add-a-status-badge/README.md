@@ -5,6 +5,8 @@ Following is an example status badge for a passing build:
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
+[![Build Status](http://ec2-18-142-30-60.ap-southeast-1.compute.amazonaws.com/buildStatus/icon?job=fibonacci)](http://ec2-18-142-30-60.ap-southeast-1.compute.amazonaws.com/job/fibonacci/)
+
 Typically, status badges are placed in the README file for a GitHub repository.  However, they can also be embedded in web pages or other online documents.
 
 To enable status badges, your Jenkins server must have the [Embeddable Build Status Plugin](https://plugins.jenkins.io/embeddable-build-status/) installed.
